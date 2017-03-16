@@ -1,0 +1,3 @@
+Last line from output: {"ID":"57112","StreetAddress":"54 Anderson Road","Suburb":"KINGS LANGLEY","State":"NSW","Country":"Australia","Postcode":"2147","BuildingAddress":"NULL","":"","mappify_buildingName":null,"mappify_numberFirst":54,"mappify_numberLast":null,"mappify_streetName":"ANDERSON","mappify_streetType":"ROAD","mappify_suburb":"KINGS LANGLEY","mappify_state":"NSW","mappify_postCode":"2147","mappify_location":{"lat":-33.75852405,"lon":150.95162184},"mappify_streetAddress":"54 ANDERSON ROAD, KINGS LANGLEY NSW 2147"}
+
+Last line from error: Failed line 57109: {"code":"ETIMEDOUT","errno":"ETIMEDOUT","syscall":"read"}
